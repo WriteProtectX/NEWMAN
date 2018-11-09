@@ -1,0 +1,72 @@
+.banner{width: auto;height: 400px;position: relative;overflow: hidden;padding-bottom:60px ;}
+.banner ul{width: 1920px;height: 400px;position: absolute;left: 50%;margin-left:-960px ;}
+.banner img{width: 1920px;height: 400px;}
+
+.content{width:1200px;height: auto;margin: 0px auto;padding:60px 0px 120px;}
+.content .left{width: 200px;height:auto;float: left;}
+.content .left .title{width: 198px;height: 109px;background: #01A1FF;}
+.content .left .title h2{font-family:"franklin gothic medium";font-size: 24px;color: #FFFFFF;text-align: center;font-weight: normal;padding-top:25px ;}
+.content .left .title span{width: 22px;height: 3px;display:block;margin: 0px auto;background: #FFFFFF;}
+.content .left .title h3{font-family: "微软雅黑";font-size:14px;color: #FFFFFF;text-align: center;font-weight: normal;}
+
+.content .sidebar{width: 198px;height: auto;border: 1px solid #01A1FF;margin-bottom: 40px;}
+.content .sidebar ul{width: 198px;height: auto;}
+.content .sidebar li{width: 172px;height: 28px;padding: 9px 13px;}
+.content .sidebar a{width: 172px;height: 28px;display: block;font-family:"微软雅黑" ;font-size:18px ;color: #666666;text-align: center;line-height: 28px;border-radius:13px ;}
+.content .sidebar a:hover,.content .sidebar .current{background:#01A1FF;color: #FFFFFF;}
+
+.content .search{width: 198px;height: 163px;border: 1px solid #01A1FF;}
+.content .search form{width: 176px;height:38px;border: 1px solid #CCCCCC;margin:7px 10px;}
+.content .search form .text{width: 140px;height: 38px;float:left;border: 0px none;padding:0px 5px ;
+font-family: "宋体";font-size: 14px;color: #333333;line-height: 38px;}
+.content .search form .button{width: 26px;height: 38px;float:left ;border: 0px none;background: url(../img/button.png)no-repeat center;cursor: pointer;}
+
+/*.content .right{width: 930px;height: auto;float: right;}
+.content .location{margin-bottom: 40px;}
+.content .location .title{ width: 934px;height: 45px;border-bottom:1px solid #d3d3d3;margin-left:-19px;padding: 0px 20px;}
+.content .location .title span{width:0px;height: 38px;border-right:3px solid #01A1FF;float: left;}
+.content .location .title h2{float: left;font-family: "微软雅黑";font-size: 26px;font-weight: normal;color: #333333;text-indent: 7px;}
+.content .location .title h3{float: left;font-family: "Arial";font-size: 14px;color: #666666;font-weight: normal;padding:16px 0px 0px 8px;}
+.content .location ul{float: right;padding-top:16px ;}
+.content .location  ul li {float: left;font-size: 12px;color: #999999;font-family: "宋体";}
+.content .location  ul li a{font-family: "宋体";font-size: 12px;color: #999999;padding:0px 5px ;}
+.content .location ul li a:hover,.content .location .current{color: #01A1FF;}*/
+
+/*.content .right .flip{width: 204px; margin:0px auto;padding:35px 0px 120px 0px;}
+.content .right .flip .prev{width:92px;height: 30px;display: block;float: left;text-align: center;line-height: 30px;background: url(../img/flip01.png) no-repeat #ccc 16px;}
+.content .right .flip .next {width:92px;height: 30px;background: saddlebrown;display: block;float: left;text-align: center;line-height: 30px;background: url(../img/next_flip.png) no-repeat #ccc 67px;}
+.content .right .flip a{font-family: "宋体";font-size: 12px;color: #666666;text-align: center;line-height: 30px;}
+.content .right .flip .prev:hover{background:url(../img/flip02.png)no-repeat #01A1FF 16px;color: #FFFFFF;}
+.content .right .flip .next:hover{background:url(../img/next_flip02.png) no-repeat #01A1FF 67px;color: #FFFFFF;}
+.content .right .page{width:auto;height: 30px; margin:0px auto;padding-top:10px ;}
+.content .right .page ul{width:auto;height: auto; display: table;margin:40px auto;}
+.content .right .page li{margin-right:5px;line-height: 25px;text-align: center;font-family: "arial";font-size: 16px;color: #666666;display: table-cell;}
+.content .right .page ul li a{display: block;background:#e5e5e5;width: 30px;height: 30px;font-family: "宋体";font-size: 12px;color: #666666;text-align: center;line-height: 30px;margin-right:5px;}
+.content .right .page ul li a:hover,.content .right .page .on a{background: #01A1FF;color: #FFFFFF;}
+.content .right .page .prev{width:92px;height: 30px;display: block;;text-align: center;line-height: 30px;background: url(../img/flip01.png) no-repeat #e5e5e5 16px;}
+.content .right .page .next {width:92px;height: 30px;display: block;text-align: center;line-height: 30px;background: url(../img/next_flip.png) no-repeat #e5e5e5 67px;}
+.content .right .page .prev:hover{background:url(../img/flip02.png)no-repeat #01A1FF 16px;color: #FFFFFF;}
+.content .right .page .next:hover{background:url(../img/next_flip02.png) no-repeat #01A1FF 67px;color: #FFFFFF;}*/
+
+
+.content .right{width: 970px;height: auto;float:right;}
+
+.location{width: 970px;height: 45px;border-bottom: 1px solid #d3d3d3;}
+.location h2{float: left;height: 38px;line-height: 38px;border-left:3px solid#01A1FF;font-family: "微软雅黑";font-size:24px;color: #333333;font-weight: normal;margin-left:20px;padding-left:6px ;}
+.location h3{float:left;font-family:"arial";font-size:14px;color:#666666;font-weight:normal;padding: 16px 0px 0px 8px;}
+.location ul{width: auto;height: 45px;float: right;padding-right:20px ;}
+.location li{width: auto;height: 45px;float: left;line-height: 45px;font-family: "宋体";font-size:12px;color: #999999;}
+.location span{padding: 0px 5px;}
+.location a{font-family: "宋体";font-size: 12px;color: #999999;}
+.location a:hover,.location .current{color: #01A1FF;}
+
+
+.right .page{width: 970px;height: 30px; }
+.right .page ul{width: auto;height: 30px;text-align: center;}
+.right .page li{width: 30px;height: 30px;display: inline-block;background: #e5e5e5;line-height: 30px;font-family: "宋体";font-size: 12px;color: #999999;}
+.right .page .prev{width: 92px;background: #e5e5e5 url(../img/page_prev.png)no-repeat 22px center;text-indent: 34px;text-align: left;}
+.right .page .prev:hover a{background: #01A1FF url(../img/page_prev_hover.png)no-repeat 22px center;}
+.right .page .next{width: 92px;background: #e5e5e5 url(../img/page_next.png)no-repeat 60px center;text-indent: 20px;text-align: left;}
+.right .page .next:hover a{background: #01A1FF url(../img/page_next_hover.png) no-repeat 60px center;}
+.right .page a{display: block;font-family: "宋体";font-size: 12px;color: #999999;}
+.right .page a:hover,.right .page .on{color: #FFFFFF;background: #01A1FF;}

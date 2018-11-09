@@ -1,0 +1,8 @@
+.content .right .main {width: auto;height: auto;overflow: hidden;}
+.content .right .main{padding: 40px 20px 10px 20px;}
+.content .right .main ul{width: 975px;height: 270px;}
+.content .right .main li{width: 280px;height: 270px;float: left;padding: 0px 45px 0px 0px;}
+.content .right .main img{width: 280px;height: 210px;float: left;}
+.content .right .main li p{width: 280px;height: 30px;float: left;}
+.content .right .main li p a{font-family: "微软雅黑";font-size: 14px;color: #333333;line-height:30px;text-indent: 15px;display: block;background: #F7F7F7 url(../img/pro_more.png) no-repeat 256px center;}
+.content .right .main li:hover p a{color: #FFFFFF;background: #01A1FF url(../img/pro_more_hover.png)no-repeat 256px center;}

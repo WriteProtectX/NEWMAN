@@ -1,0 +1,9 @@
+.content .right .main{padding: 40px 20px 30px 20px;}
+
+
+.content .main ul{width: 930px;height: auto;}
+.content .main li{padding-bottom:20px;background:url(../img/Services_01.png) repeat-x center;margin:16px 0px ;}
+.content .main li a{float: left;display: block;font-family: "宋体";font-size: 14px;color: #666666;background-color: #FFFFFF;}
+.content .main span{float: right;display: block;font-family: "宋体";font-size: 14px;color: #666666;background-color: #FFFFFF;}
+.content .main li:hover a,.content .main li:hover span{color: #01A1FF;}
+.content .main li:hover{background: url(../img/Services_hover.png)repeat-x center;}

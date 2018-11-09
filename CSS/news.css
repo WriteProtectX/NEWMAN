@@ -1,0 +1,19 @@
+.content .right .main{padding: 40px 20px 10px 20px;}
+
+.content .right .main ul li{width:auto;height: 100px;padding-bottom:30px;}
+.content .right .main .date{width: 108px;height: 100px;float: left;background: #e5e5e5;}
+.content .right .main .date h4{width: 65px;height: 60px;font-family:"impact" ;font-size: 40px;color: #999999;line-height: 60px;text-align: center;border-bottom:1px solid #999999;margin: 0px auto;}
+.content .right .main .date span{width: 108px;height:39px;display:block;font-family:"Myriad Pro";font-size: 14px;color: #999999;line-height: 39px;text-align: center;}
+.content .right .main .text{width: 807px;height: 78px;float: right;}
+.content .right .main .text h3{font-weight: normal;margin-bottom:7px ;}
+.content .right .main .text h3 a{font-family: "微软雅黑";font-size: 20px;color: #333333;}
+.content .right .main .text p{font-family: "宋体";font-size: 14px;color: #666666;line-height: 20px;text-indent: 2em;}
+
+.content .right .main li:hover .date{background: #01A1FF;}
+.content .right .main li:hover h4{color: #FFFFFF;border-color:#FFFFFF ;}
+.content .right .main li:hover span{color: #FFFFFF;}
+.content .right .main li:hover a{color: #01A1FF;}
+
+
+
+
